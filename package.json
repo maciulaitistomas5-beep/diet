@@ -1,0 +1,11 @@
+{
+  "name": "diet-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal iPhone Home Screen diet tracker. Static page, no server; data stays on the phone.",
+  "scripts": {
+    "test": "node --test",
+    "serve": "python3 -m http.server 8090"
+  }
+}
